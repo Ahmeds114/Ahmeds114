@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 **About Me**
-- 🎓 **Master's in Computer Science** at **Monroe College**  
+- 🎓 **Master's in Computer Science** at **Monroe University**  
 - 🏢 **Currently working at Synactive**  
 - 🔥 Passionate about **Software Development, Cloud Deployments & AI Integration**  
 - 💡 **Currently Learning:** **AWS Cloud, SAP CAP, AI & Automation**  
