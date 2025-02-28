@@ -49,16 +49,35 @@
 
 ---
 
-## 📈 **GitHub Stats & Contributions**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmeds114&show_icons=true&theme=radical&cache_seconds=1800" width="48%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeds114&layout=compact&theme=radical&langs_count=8" width="48%"/>
-</p>
+## 📊 **GitHub Stats & Contributions**
 
-🔥 **My GitHub Streak**:  
+<table>
+  <tr>
+    <td>
+      <h4>🔥 Ahmeds114's GitHub Stats</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ahmeds114&show_icons=true&theme=radical&cache_seconds=1800" width="100%"/>
+    </td>
+    <td>
+      <h4>🎨 Most Used Languages</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeds114&layout=compact&theme=radical&langs_count=6" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔥 **My GitHub Streak:**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmeds114&theme=radical" width="50%"/>
 </p>
+
+---
+
+### 🌱 **GitHub Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmeds114&theme=radical"/>
+</p>
+
 
 ---
 
