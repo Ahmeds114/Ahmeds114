@@ -73,14 +73,6 @@
 
 ---
 
-### 🌱 **GitHub Activity Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmeds114&theme=radical"/>
-</p>
-
-
----
-
 ## 🌱 **My Learnings so far**
 - 🏗 **Building:** **Landscaping Connection Platform**  
 - 🚀 **Exploring:** **SAP BTP & S/4HANA Integration**  
