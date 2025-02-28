@@ -54,7 +54,7 @@
 <table>
   <tr>
     <td>
-      <h4>🔥 GitHub Stats</h4>
+      <h4>🔥 My GitHub Stats</h4>
       <img src="https://github-readme-stats.vercel.app/api?username=Ahmeds114&show_icons=true&theme=radical&cache_seconds=1800" width="100%"/>
     </td>
     <td>
